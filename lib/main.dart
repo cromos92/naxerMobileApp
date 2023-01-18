@@ -1,14 +1,27 @@
 import 'package:flutter/material.dart';
 import 'package:naxermobileapp/pages/home.dart';
+import 'package:naxermobileapp/services/productosService.dart';
+import 'package:provider/provider.dart';
 void main() {
-  runApp(const MyApp());
+  runApp(  AppState());
   home: Home_();
+
 }
 
-
+class AppState extends StatelessWidget{
+  @override
+  Widget build(BuildContext context){
+    return MultiProvider(providers: [
+      ChangeNotifierProvider(create:  (_)=> ProductoService(),lazy: false ,),
+    ],
+    child: MyApp(),
+    );
+  }
+}
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+
 
   // This widget is the root of your application.
   @override

@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:naxermobileapp/pages/comparador.dart';
 import 'package:naxermobileapp/pages/verProductos.dart';
+import 'package:naxermobileapp/services/productosService.dart';
 
 class Home_ extends StatelessWidget {
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

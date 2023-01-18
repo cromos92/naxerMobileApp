@@ -1,12 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:naxermobileapp/models/api_response.dart';
+import 'package:naxermobileapp/models/producto.dart';
+import 'package:naxermobileapp/services/productosService.dart';
 
+import '../controller/productoController.dart';
 import 'comparador.dart';
 import 'home.dart';
+import 'package:provider/provider.dart';
+
 class verProductos extends StatelessWidget {
+
 
 
   @override
   Widget build(BuildContext context) {
+
+
     return Scaffold(
         drawer: Drawer(
             child: Container(
@@ -83,7 +92,20 @@ class verProductos extends StatelessWidget {
               ),
             )),
         appBar: AppBar(title: Text("Bienvenidos a Comprathor APP")),
+  body:    Container(
+    margin: EdgeInsets.all(25),
+    child: TextButton(
 
+    onPressed: () async{
+
+
+    },
+    child: Text('Looks like a FlatButton'),
+    )
+    )
     );
+
   }
+
+
 }
