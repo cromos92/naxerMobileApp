@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		icET8eJuq12B4GmVU7VkRoBH0vU=
+		k2Y+RBDDOfJNXDF0/Vi2c7VQnWI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		J1SUV3Pi90cl1JIsN4MT6bSr+xE=
+		zp12aQE2jFwOC95ti0zxkhy6nZk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		Qx5OJUqThCNOoVb8/l8otAiLNA4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -66,7 +66,23 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		xTv4xP8BcRwkPdryaG5ai9porwI=
+		rB9uCInHyd/zh1D3ve6o7fDsuIo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/audifonos.jpeg</key>
+		<data>
+		m9WbuXNIU7bJ3vRXP1J7Cfr0ijY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/celular.jpeg</key>
+		<data>
+		etq8suwSJzYNneAdrgwXobEZqIY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/comparadorFoto.jpeg</key>
+		<data>
+		D3CpSn32RF9nWNi/BNgUJN8yVjM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/pc.jpeg</key>
+		<data>
+		A1T7Iq145R7t9OuE4oV3x0OtARc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -78,7 +94,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		l8MQZvVht20CZ9/LQSS5d9KuAn4=
+		vymm1nRhdWfJpMB2UQw3HZyzP1o=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -94,7 +110,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		eT0/WV0BGkn8MK6a8Qa02ii6BAE=
+		VQBJxXJqEnPTclFd6PBFV8hoik0=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -261,7 +277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8iuBcTaHzTUs9vI7xQjhx42ZmhxggvIMESp+Kam2lrM=
+			5qfLokVqwdUnGWd1rC8U8WTfu3NBBNii9i21MJVGOdQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -275,14 +291,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			loixO44K7BuF+kVqm2QHV85u4abqbyAokyuOq5ec87Y=
+			m9BCeWJI0CB7bmAwUIqiNn/949ru0HNAHfRsaUXesAk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			Ede7XluDp3OmCxjBlDPAJCocoVtFhvFBfFc2eEkolK0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -296,7 +312,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFYWQ+t+cN5QBkoNHcEHdDj70uBENdQC3V0Bz7yleBA=
+			ccs+J7XAy6Q2SIgZoGnR/5AFHV700r0kzNlLeBTkhp8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/audifonos.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			29ocz9CpGFcIC7oCmzyWav2DoCmnWyFOjvqQhJ0HT24=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/celular.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QwXzOh3XcrhDLBq/WihepFTZPGMEeC6/L6i6x/6CmRI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/comparadorFoto.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			exak7pWcioeCSpObuVlN4OpO0K/8MfsRZDApi6wkB44=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/pc.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y0KlwFvWkSHndClYP4Vi70iVqFgjZVRDCfCH8ohvHEs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -317,7 +361,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7CKGHhmmyVn3J0rpnJytyl+AruFhS4K5OnP9Rp0/uBE=
+			YYcI/L/Snuxd8bKMG72jRZn+zwaiuI/jPwup/RRzkXk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -345,7 +389,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			615DMgosMKgPJO7hZ89nBbfE9TQRYch2edZZp1NZOJM=
+			gqCUlk+Q21Xe62pm61NakTTWSE59G3ubQ5D7fhm/wEY=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>

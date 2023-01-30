@@ -14,7 +14,7 @@ class AppState extends StatelessWidget{
     return MultiProvider(providers: [
       ChangeNotifierProvider(create:  (_)=> ProductoService(),lazy: false ,),
     ],
-    child: MyApp(),
+      child: MyApp(),
     );
   }
 }
@@ -44,6 +44,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
